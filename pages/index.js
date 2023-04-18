@@ -64,7 +64,7 @@ export default function index() {
             h={["165px", "165px", "200px"]}
             w={["165px", "165px", "200px"]}
           >
-            <video loop autoPlay>
+            <video loop autoPlay muted>
               <source src="diffusion.mp4" type="video/mp4" />
             </video>
           </Flex>
